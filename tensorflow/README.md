@@ -1,2 +1,0 @@
-# learning tensorflow
-test
